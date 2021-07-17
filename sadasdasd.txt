@@ -1,2 +1,13 @@
-Day la nhanh dev
-THis is login
+git clone link.sdasdasd.asdasdsa
+git remote link.asda s.d.sad.ád // cho biết project đang liên kết với link git 
+
+git checkout -b dev // tạo branch dev từ branch hiện tại
+git branch // xem các branch 
+git checkout dev // chuyển qua branch dev 
+
+git add . // đưa code vào thùng
+git commit -m "message" // đóng gói + message
+git push origin dev // push code lên branch dev 
+
+git pull origin // pull code từ nhánh hiện tại trên remote về local 
+git merge origin dev // merge code từ nhánh dev vào nhánh hiện tại
